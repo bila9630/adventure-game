@@ -1,0 +1,1 @@
+This is a short adventure game written in python.
